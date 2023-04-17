@@ -9,4 +9,5 @@ Curated list for find Web3 &amp; Crypto jobs
 - [Consensys](https://consensys.net/careers/)
 - [Crypto Jobs List](https://cryptojobslist.com/)
 - [Bankless](https://bankless.pallet.com/jobs)
-- []()
+- [useWeb3 Jobs](https://www.useweb3.xyz/jobs)
+- [Web3 Army](https://web3army.xyz/)
