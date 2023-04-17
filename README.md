@@ -11,3 +11,6 @@ Curated list for find Web3 &amp; Crypto jobs
 - [Bankless](https://bankless.pallet.com/jobs)
 - [useWeb3 Jobs](https://www.useweb3.xyz/jobs)
 - [Web3 Army](https://web3army.xyz/)
+- [Cryptovalley](https://cryptovalley.jobs/)
+- [Startup](https://startup.jobs/ethereum-jobs)
+- [Cryptojobster](https://cryptojobster.com/)
