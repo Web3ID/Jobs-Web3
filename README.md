@@ -14,6 +14,7 @@ Curated list for find Web3 &amp; Crypto jobs
 - [Cryptovalley](https://cryptovalley.jobs/)
 - [Startup](https://startup.jobs/ethereum-jobs)
 - [Cryptojobster](https://cryptojobster.com/)
+- [Blockchain Developer By Ziprecruiter](https://www.ziprecruiter.com/Jobs/Junior-Blockchain-Developer)
 
 
 
