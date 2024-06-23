@@ -15,6 +15,7 @@ Curated list for find Web3 &amp; Crypto jobs
 - [Startup](https://startup.jobs/ethereum-jobs)
 - [Cryptojobster](https://cryptojobster.com/)
 - [Blockchain Developer By Ziprecruiter](https://www.ziprecruiter.com/Jobs/Junior-Blockchain-Developer)
+- [Solana Jobs](https://jobs.solana.com)
 
 
 
@@ -24,7 +25,7 @@ Curated list for find Web3 &amp; Crypto jobs
 
 [Newsletters](https://web3idn.substack.com/)
 
-[Website](https://www.web30.my.id/)
+[Website](https://www.w3idn.xyz/)
 
 [Medium](https://medium.com/@web3id)
 
