@@ -17,6 +17,7 @@ Curated list for find Web3 &amp; Crypto jobs
 - [Blockchain Developer By Ziprecruiter](https://www.ziprecruiter.com/Jobs/Junior-Blockchain-Developer)
 - [Solana Jobs](https://jobs.solana.com)
 - [Wellfound](https://wellfound.com/startups/industry/blockchain-cryptocurrency-2)
+- [Web3.Career](https://web3.career/remote-jobs)
 
 
 
