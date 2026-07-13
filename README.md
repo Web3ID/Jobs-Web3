@@ -36,6 +36,7 @@ Curated list for find Web3 &amp; Crypto jobs
 - [WenWork](https://wenwork.com/)
 - [StarkNet Career](https://www.starknet.org/careers)
 - [Sidechain](https://www.sidechain.so/)
+- [Working Nomads](https://www.workingnomads.com/remote-web3-jobs)
   
 
 
